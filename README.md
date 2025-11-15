@@ -1,2 +1,3 @@
-# Adidas US Sales-analysis-dashboard
+# Adidas US Sales-Data-analysis(Interactive Dashboard creation using Microsoft Power BI)
+## Project Objective
 A comprehensive sales analysis dashboard built using Power BI, showcasing insights on revenue, profit, and product performance with dynamic filters and visual reports.
