@@ -14,6 +14,30 @@ This project presents an end-to-end Power BI analysis of Adidas US Sales, coveri
 - Retailer Performance
 - Key Influencers Analysis
 ## Dashboard Screenshots
-- <a href="https://github.com/bharathi2494/Power-BI--2025--Adidas-US-sales-Dashboard/blob/main/dashboard%20screenshot%201.jpg">view Dashboard</a>
+- <a href="https://github.com/bharathi2494/Power-BI--2025--Adidas-US-sales-Dashboard/blob/main/dashboard%20screenshot%201.jpg">view Main Dashboard</a>
 - <a href="https://github.com/bharathi2494/Power-BI--2025--Adidas-US-sales-Dashboard/blob/main/dashboard%20screenshot%202.jpg">view Dashboard-Key Influencers & Detailed Insights</a>
+## Key Insights
+## Overall Sales
+- Total Sales: $899.9M
+- Operating Profit: $332.1M
+- Units Sold: 2.5M
+- Average Price per Unit: $45
+- Operating Margin: 42.3%
+## Sales Trends
+- Peak sales in July, August, and December
+- Lowest sales in February and March
+## Regional Sales
+- West region contributes the highest share (30%)
+- Midwest and Southeast also show strong performance
+## Product Performance
+Top-selling product categories include:
+- Men’s Street Footwear
+- Women’s Apparel
+- Men’s Athletic Footwear
+## Retailer Contribution
+Major sales contributors:
+- West Gear
+- Foot Locker
+- Sports Direct
+
 
