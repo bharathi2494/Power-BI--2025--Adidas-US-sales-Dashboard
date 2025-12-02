@@ -46,4 +46,12 @@ Major sales contributors:
 - Microsoft Excel / CSV (Raw Dataset)
 
 
+<p align="center">
+  <img src="https://github.com/bharathi2494/Power-BI--2025--Adidas-US-sales-Dashboard/blob/main/dashboard%20screenshot%201.jpg" alt="Netflix Project Logo">
+</p>
+
+<p align="center">
+  <img src="https://github.com/bharathi2494/Power-BI--2025--Adidas-US-sales-Dashboard/blob/main/dashboard%20screenshot%202.jpg" alt="Netflix Project Logo">
+</p>
+
 
